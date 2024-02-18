@@ -1,9 +1,6 @@
 # Speedometer
 Simple speedometer!
 
-## disclaimer
-This is using a lot of part from the old ft_speedometer, so everything isn't coded by me.
-
 ## Requirments
 	- ft_libs : https://github.com/FivemTools/ft_libs
 	
